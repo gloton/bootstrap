@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
-	<title>COLUMNAS DE COMPENSACION</title>
+	<title>COLUMNAS DE COMPENSACION FLUIDO</title>
 </head>
 <body>
 	<div class="row-fluid">

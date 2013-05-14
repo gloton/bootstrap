@@ -4,7 +4,8 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
-	<title>COLUMNAS DE COMPENSACION</title>
+	<title>ANIDACION FLUIDA</title>
+	<!--El numero de columnas anidadas no es necesario que coincida con el nivel superior-->
 </head>
 <body>
 	<div class="row-fluid">
