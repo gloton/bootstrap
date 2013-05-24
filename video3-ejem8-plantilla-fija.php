@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
 	<link rel="stylesheet" href="css/estilos.css" />
-	<title>COLUMNAS DE COMPENSACION</title>
+	<title>Plantilla fija</title>
 	<!--El diseño simple y por defecto de 940px para cualquier pagina web-->
 </head>
 <body>
